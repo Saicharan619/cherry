@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "saitejaameda",
+  "private_key_id": "392ec15b02d90cba42f975ac1ca4c92f338606e5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCLWJo9YDXM0wZw\nO+NwoJNH3D5WSGMw69n7QvevPqMzfjN+5JAMNHpq34699K0GjUm0sKCz3OxsTZJ8\nCRhcD8GNEL49LrVPXH4CW2GGB1gwha6CtuD98AOm11lZivUR/LusgLReyYvA0RK1\nZkY3s/LGhEn3q9Ouq8MAAOhiLhmf2bKZPB1D+OqUl17CbQ3WuFGcLM51ujd1doxZ\n22OA9X4NPAQ0R6xf1xTzTbNS5kuVRZcDQIB7wQWnwKljPIKsbYxVe4DtWz1khss8\n8PtngGOTAYusTKPaYtEnuj7v5OufBEniDVTmqiPv5mNe0lcHsgqSrmCM2gTTPUAK\n0ilxViuJAgMBAAECggEAKtFdA8MOhRPLBK3CY5dT6l7o4MZ5hEzUvHqFdVn/+BCt\nbi55fOabPz/WstP+XucHYPhtSRd3pofnnSmGTLOiu+ALNO2nVO2M4tiFjROwq6hI\nSW48kIsx9BB0KimiyJYqbQVXZ1DzGpqj7w2wQemPjiSUPgCUmTW6Q8QDpDeaNB3S\nypnIhI0ROs6bEkXA2SY7YOrSf6KZp8FxggM5Xwg0LF/iIY7rZQ8Bf0U19wXvVVbY\nhEK3eX60AzEKoqvlAyStS9MD+KiCJkHo6d3RbIKmq/d3nIqTKENAJwVOpfmEWUHH\n2YLb5E4CIRLQJ6n/05DcfI1/7pGictjwyq0bU185KQKBgQC84hJxMIELuJMopzAO\ni1DFpX2QOQL8bqrTN9fiS+5TcblJHh9B3jEDytYil/vZ3cNCRYpB7OvgU3fsamZe\npkToG5pcJ4Lcfto6WtNzJ93hdFwB8RFjzZankBjrrgc5taoQOKzGs3dMfu22CSOt\nehnirckCLOmGOJkoVkK2Q5oaWwKBgQC83FoD9uv2QGuQU7ifaDJgkx6PLuVvoB4O\nqwR0CLFk34vNCxw5vg1pLKcx/sZ2wpeJdSJt5VMhfdCB8JeZrP+tS9nF6vwDc77u\n2vY1nVLJh4vw2nNQsUONDL4cK98j2shTMmgWtxO95rnc32E5vcpk5SaAD7r9AkeA\nOwg99X0O6wKBgHCbGsGOWDDDrj/bRIQ3PEVIvw3fX09dLsxTi4nnGMN4lizoH1xm\nebQ4Fedz0nr1gbYdvSpGc+099c3lNPiSiZwS8Lil+Zc4rSODCHKrvtTtSPkDXgmx\nBHMLLkA7dSVLj4KyNxcS4TmiplcTJckDdTE1yBNa8THKxkxM+OKudM3nAoGAMnQb\niBubBfpHwhLbq5pGew5Sh6XbnWqFHR4K3oTD/1LJIknpjHN9Wa+YKv8JPgjWOt6U\nCA/PmY7m+Q+xMFjLJRyyXPFdyf5N77mHNOOGjlgrxnhVfiUdCr1wvE3sGsQD6FX7\nALaAC6dr19nFO4u8Wh/tnSCWr6jAOT2MAiFm+2kCgYBQxUOdh7WGuyTv8dK0GSR9\n297iogzCbusIb0sFg3/Sf0+L0imS+1cdHoUh1vZiJAttfA6f6LVABAUFqe+Oa88y\n0G4usMuRlA2Hv/nxCUxjAyoipA3GtkkJmcWdyDaNF0Fixo1u339hibAqYUqKyO9q\nVQXCJ+4TAqKMIfVgmq151A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "saiteja@saitejaameda.iam.gserviceaccount.com",
+  "client_id": "103832782036536251368",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/saiteja%40saitejaameda.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
